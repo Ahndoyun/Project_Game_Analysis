@@ -1,3 +1,4 @@
 # Project_Game_Analysis
 Game trend data analysis
-[AI13_안도윤_gameproj_presentaton.pdf](https://github.com/Ahndoyun/Project_Game_Analysis/files/8521015/AI13_._gameproj_presentaton.pdf)
+
+![image](https://user-images.githubusercontent.com/102212281/164220175-67a044bd-fc6f-407d-b4f0-d0ef56aa2113.png)
